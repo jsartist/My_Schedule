@@ -3,8 +3,8 @@ using namespace std;
 class sch {
 private:
 	string date[19][6];
-	float num; // ½ÃÀÛ±³½Ã
-	float Lnum; // ¸¶Áö¸·±³½Ã
+	float num; // ì‹œì‘êµì‹œ
+	float Lnum; // ë§ˆì§€ë§‰êµì‹œ
 
 
 public:
